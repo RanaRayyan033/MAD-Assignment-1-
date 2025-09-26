@@ -5,7 +5,7 @@ The app allows users to swap skills with each other in a simple and user-friendl
 
 ##  Features:
  **Login Screen**  
-   Email: `test@student.com`  
+   Email: `rayyan@gmail.com`  
    Password: `12345`  
    Invalid credentials show an error message.
 **Home Screen**  
