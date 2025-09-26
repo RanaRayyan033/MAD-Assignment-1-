@@ -1,7 +1,7 @@
 # SkillSwap MVP (React Native)
 
 This is a Minimum Viable Product (MVP) frontend for the **SkillSwap App**, built using **React Native**.  
-The app allows users to swap skills with each other in a simple and user-friendly way.
+The app allows users to swap skills with each other in a simple and user-friendly way
 
 ##  Features:
  **Login Screen**  
