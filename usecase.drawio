@@ -1,0 +1,30 @@
+@startuml
+left to right direction
+actor Learner
+actor Tutor
+actor Admin
+
+rectangle SkillSwap {
+  
+  Learner --> (Login)
+  Tutor --> (Login)
+
+  Learner --> (View Skill Offers)
+  Tutor --> (View Skill Offers)
+
+  Learner --> (View Offer Details)
+  Tutor --> (View Offer Details)
+
+  Tutor --> (Create Skill Offer)
+  Learner --> (Create Skill Offer)
+
+  Learner --> (View Profile)
+  Tutor --> (View Profile)
+
+  Learner --> (Book Session)
+  Tutor --> (Book Session)
+
+  Admin --> (Remove Inappropriate Content)
+  Admin --> (Manage User Accounts)
+}
+@enduml
