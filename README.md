@@ -28,4 +28,4 @@ The app allows users to swap skills with each other in a simple and user-friendl
 
 1. Clone this repository:
    bash
-   git clone https://github.com/ranarayyan033/skillswap-mvp.git
+   git clone https://github.com/RanaRayyan033/MAD-Assignment-1-.git
